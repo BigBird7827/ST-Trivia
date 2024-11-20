@@ -5,7 +5,7 @@ correctly.
 This quiz draws from a database of 385 questions. Each question is displayed with four (4) possible answers, only one of which
 is correct. Each question is presented with a Catagory and a Description which will guide the player in answering the question.
 When the player answers a question, they will immediately be informed as to whether the question was answerd correctly or incorrectly.
-They will also be provided with the correct answer and a narrative about the correct answer.
+They will also be provided with the correct answer and a narrative of the question.
 
 Once the exam is over (all questions have been answered), the player will be informed whether or not they passed and the percentage
 of questions answered correctly. An option to review incorrectly answered questions will be provided. This will allow the player
