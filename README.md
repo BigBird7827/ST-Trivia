@@ -9,8 +9,9 @@ They will also be provided with the correct answer and a narrative of the questi
 
 Once the exam is over (all questions have been answered), the player will be informed whether or not they passed and the percentage
 of questions answered correctly. An option to review incorrectly answered questions will be provided. This will allow the player
-to review a page of information (from MemoryAlpha.com). Not all pages displayed will have information about the question at the
-top of the page. If this information is not immediately visible, the player should press Ctrl+F on their keyboard and enter a
-keyword to search for the information. For example, if the question was regarding Ferengi Rule of Acquisition #3, the link will
-take the player to the Ferengi Rules of Acquisition page on MemoryAlpha.com, and the user may press Ctrl+F and search for the
-keyword "Rule #3" which will locate the specific information for that rule of acquisition.
+to review a page of information (from MemoryAlpha.com). The specific information may not be available on the MemoryAlpha.com page,
+however; general information about the question will always be available. If the page does not show the spefics of the question
+, the player may press Ctrl+F on their keyboard and enter a keyword to search for the information. For example, if the question was
+regarding Ferengi Rule of Acquisition #3, the link will take the player to the Ferengi Rules of Acquisition page on MemoryAlpha.com,
+and the user may press Ctrl+F and search for the keyword "Rule #3" (or another appropriate keyword) which will locate the specific
+information for that particular catagory.
